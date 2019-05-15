@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT healthgig_3379.wsgi:application
